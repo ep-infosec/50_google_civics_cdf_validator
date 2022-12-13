@@ -1,0 +1,2213 @@
+<?xml version="1.0"?>
+<ElectionReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Election  objectId="el0110">
+    <CandidateCollection>
+      <Candidate objectId="can10861a">
+        <BallotName>
+          <Text language="en">Barack H. Obama</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-obama</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <FileDate>2015-06-01</FileDate>
+        <!-- The PartyId here represents the party as the candidate is running
+             on the ballot, but *not* necessarily party endorsements (see below).
+             This may be different than the party the person registers as. For
+             example, in the 2016 Democratic Primaries Bernie Sanders the
+             Candidate would be a Democrat, but Bernie Sanders the person would
+             be an independent.
+          -->
+        <PartyId>par0003</PartyId>
+        <PersonId>per10861a</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10861b">
+        <BallotName>
+          <Text language="en">Joseph R. Biden</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-biden</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10861b</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10862a">
+        <BallotName>
+          <Text language="en">Mitt Romney</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-romney</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10862a</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10862b">
+        <BallotName>
+          <Text language="en">Paul Ryan</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-ryan</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10862b</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10961">
+        <BallotName>
+          <Text language="en">Ken T. Cuccinelli II</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-cuccinelli</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10961</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10962">
+        <BallotName>
+          <Text language="en">Robert C. Sarvis</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-sarvis</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0002</PartyId>
+        <PersonId>per10962</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10963">
+        <BallotName>
+          <Text language="en">Terry R. McAuliffe</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-mcauliffe</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10963</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10966">
+        <BallotName>
+          <Text language="en">Ralph S. Northam</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-northam</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10966</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10967">
+        <BallotName>
+          <Text language="en">E. W. Jackson</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-jackson</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10967</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10964">
+        <BallotName>
+          <Text language="en">Mark D. Obenshain</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-obenshain</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10964</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10965">
+        <BallotName>
+          <Text language="en">Mark R. Herring</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-herring</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10965</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can14444">
+        <BallotName>
+          <Text language="en">Cleo E. Powell</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-powell</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per14444</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10422">
+        <BallotName>
+          <Text language="en">R. Steven /Steve/ Landes</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-landes</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10422</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10388">
+        <BallotName>
+          <Text language="en">David J. Toscano</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-toscano</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10388</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10466">
+        <BallotName>
+          <Text language="en">C. Matt Fariss</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-fariss</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10466</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10438">
+        <BallotName>
+          <Text language="en">Robert B. Bell III</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-bell</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <!-- This candidate has declined to state their party in the Top-Two contest,
+             and thus are linked to the "Party Preference: None" party.
+          -->
+        <PartyId>par0006</PartyId>
+        <PersonId>per10438</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10079">
+        <BallotName>
+          <Text language="en">Jane D. Dittmar</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-dittmar</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10079</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10080">
+        <BallotName>
+          <Text language="en">C. L. /Cindi/ Burket</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-burket</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10080</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10075">
+        <BallotName>
+          <Text language="en">Diantha H. McKeel</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-mckeel</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0004</PartyId>
+        <PersonId>per10075</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10076">
+        <BallotName>
+          <Text language="en">B. Phillip Seay</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-seay</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0004</PartyId>
+        <PersonId>per10076</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10073">
+        <BallotName>
+          <Text language="en">Liz A. Palmer</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-palmer</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10073</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10074">
+        <BallotName>
+          <Text language="en">Duane E. Snow</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-snow</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10074</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10077">
+        <BallotName>
+          <Text language="en">Rodney S. Thomas</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-thomas</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0001</PartyId>
+        <PersonId>per10077</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10078">
+        <BallotName>
+          <Text language="en">J. L. /Brad/ Sheffield</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-sheffield</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0003</PartyId>
+        <PersonId>per10078</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10214">
+        <BallotName>
+          <Text language="en">Pamela R. Moynihan</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-moynihan</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0004</PartyId>
+        <PersonId>per10214</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10215">
+        <BallotName>
+          <Text language="en">Eric J. Strucko</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-strucko</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0004</PartyId>
+        <PersonId>per10215</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+      <Candidate objectId="can10213">
+        <BallotName>
+          <Text language="en">K. L.  /Kate/ Acuff</Text>
+        </BallotName>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cand-2013-va-acuff</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <PartyId>par0004</PartyId>
+        <PersonId>per10213</PersonId>
+        <PreElectionStatus>self-declared</PreElectionStatus>
+      </Candidate>
+    </CandidateCollection>
+    <ContestCollection>
+      <Contest objectId="cc20002" xsi:type="CandidateContest">
+        <!-- This contest is for office: President.
+          -->
+        <BallotSelection objectId="cs10861" xsi:type="CandidateSelection">
+          <CandidateIds>can10861a</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10862" xsi:type="CandidateSelection">
+          <CandidateIds>can10862a</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">President of the United States</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-us1-country-us-pres</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>President</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off9999a</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20001" xsi:type="CandidateContest">
+        <!-- This contest is for office: Vice President.
+          -->
+        <BallotSelection objectId="cs10863" xsi:type="CandidateSelection">
+          <CandidateIds>can10861b</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10864" xsi:type="CandidateSelection">
+          <CandidateIds>can10862b</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Vice President of the United States</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-us1-country-us-vicepres</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Vice President</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off9999b</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20003" xsi:type="CandidateContest">
+        <!-- This contest has the ballot selections rotated on some ballot
+             styles. Therefore the HasRotation must be set to true.
+          -->
+        <BallotSelection objectId="cs10961" xsi:type="CandidateSelection">
+          <CandidateIds>can10961</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10962" xsi:type="CandidateSelection">
+          <CandidateIds>can10962</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10963" xsi:type="CandidateSelection">
+          <CandidateIds>can10963</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Governor of Virginia</Text>
+        </BallotTitle>
+        <!-- Note that all contests for which the scope is "the entire state"
+             point to the same GpUnit (i.e., ru0002). Do not create separate
+             per-contest GpUnits if those GpUnits represent the same area.
+          -->
+        <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va1-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <HasRotation>true</HasRotation>
+        <Name>Governor</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off0000</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <!-- Lieutenant Governor is elected separately from Governor, so it is a
+           separate contest.
+        -->
+      <Contest objectId="cc20004" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10966" xsi:type="CandidateSelection">
+          <CandidateIds>can10966</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10967" xsi:type="CandidateSelection">
+          <CandidateIds>can10967</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Lieutenant Governor of Virginia</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va2-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Lieutenant Governor</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off0001</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+
+      <Contest objectId="cc20005" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10964" xsi:type="CandidateSelection">
+          <CandidateIds>can10964</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10965" xsi:type="CandidateSelection">
+          <CandidateIds>can10965</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Attorney General</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va3-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Attorney General</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20005</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <!-- These next several contests are all for state house. They may have
+           the same ballot title, but are for separate offices. The most
+           important thing is that the contents of the BallotTitle field
+           should reflect what is on the actual ballot.
+        -->
+      <Contest objectId="cc20024" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10422" xsi:type="CandidateSelection">
+          <CandidateIds>can10422</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member House of Delegates District - 025</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0150</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va4-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member House of Delegates District - 025</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off21</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20025" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10388" xsi:type="CandidateSelection">
+          <CandidateIds>can10388</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member House of Delegates District - 057</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0311</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va5-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member House of Delegates District - 057</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off21</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <Contest objectId="cc20033" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10466" xsi:type="CandidateSelection">
+          <CandidateIds>can10466</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member House of Delegates District - 059</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0107</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va6-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member House of Delegates District - 059</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off21</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <!--
+           This is an example of a "Top-Two" or "Louisiana primary" in which
+           candidates from all parties compete against each other. Here, we use
+           the "Voter-Nominated" party in the PrimaryPartyIds field to show that the
+           contest itself is non-partisan, even if the candidates themselves are.
+        -->
+      <Contest objectId="cc20100" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10438" xsi:type="CandidateSelection">
+          <CandidateIds>can10438</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member House of Delegates District - 058</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0076</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va7-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member House of Delegates District - 058</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off21</OfficeIds>
+        <!-- Links to "Voter Nominated" Party -->
+        <PrimaryPartyIds>par0005</PrimaryPartyIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <Contest objectId="cc20262" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10079" xsi:type="CandidateSelection">
+          <CandidateIds>can10079</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10080" xsi:type="CandidateSelection">
+          <CandidateIds>can10080</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member Board of Supervisors - Scottsville</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0103</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va8-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member Board of Supervisors - Scottsville</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20262</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <Contest objectId="cc20305" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10075" xsi:type="CandidateSelection">
+          <CandidateIds>can10075</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10076" xsi:type="CandidateSelection">
+          <CandidateIds>can10076</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member Board of Supervisors - Jack Jouett</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0054</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va9-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member Board of Supervisors - Jack Jouett</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20305</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+
+      <Contest objectId="cc20350" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10073" xsi:type="CandidateSelection">
+          <CandidateIds>can10073</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10074" xsi:type="CandidateSelection">
+          <CandidateIds>can10074</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member Board of Supervisors - Samuel Miller</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0030</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va10-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member Board of Supervisors - Samuel Miller</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20350</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20355" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10077" xsi:type="CandidateSelection">
+          <CandidateIds>can10077</CandidateIds>
+        </BallotSelection>
+        <BallotSelection objectId="cs10078" xsi:type="CandidateSelection">
+          <CandidateIds>can10078</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member Board of Supervisors - Rio</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0081</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va11-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member Board of Supervisors - Rio</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20355</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20449" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10214" xsi:type="CandidateSelection">
+          <CandidateIds>can10214</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member School Board - Rio</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0081</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va12-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member School Board - Rio</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20449</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20473" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10215" xsi:type="CandidateSelection">
+          <CandidateIds>can10215 can14444</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member School Board - Samuel Miller</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0030</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va13-country-us</Value>
+          </ExternalIdentifier></ExternalIdentifiers>
+        <Name>Member School Board - Samuel Miller</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20473</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+      <Contest objectId="cc20476" xsi:type="CandidateContest">
+        <BallotSelection objectId="cs10213" xsi:type="CandidateSelection">
+          <CandidateIds>can10213</CandidateIds>
+        </BallotSelection>
+        <BallotTitle>
+          <Text language="en">Member School Board - Jack Jouett</Text>
+        </BallotTitle>
+        <ElectoralDistrictId>ru0054</ElectoralDistrictId>
+        <ExternalIdentifiers>
+          <ExternalIdentifier>
+            <Type>other</Type>
+            <OtherType>stable</OtherType>
+            <Value>vageneral-cont-2013-va14-country-us</Value>
+          </ExternalIdentifier>
+        </ExternalIdentifiers>
+        <Name>Member School Board - Jack Jouett</Name>
+        <NumberElected>1</NumberElected>
+        <OfficeIds>off20476</OfficeIds>
+        <VotesAllowed>1</VotesAllowed>
+      </Contest>
+    </ContestCollection>
+    <!-- Note that there can be multiple CountStatus objects, reflecting the
+         count status of different types of ballot batches.
+      -->
+    <CountStatus>
+      <Status>completed</Status>
+      <Type>early</Type>
+    </CountStatus>
+    <CountStatus>
+      <Status>in-process</Status>
+      <Type>election-day</Type>
+    </CountStatus>
+    <ElectionScopeId>ru0002</ElectionScopeId>
+    <Name>
+      <Text language="en">2013 Virginia General Election</Text>
+    </Name>
+    <StartDate>2013-11-05</StartDate>
+    <EndDate>2013-11-05</EndDate>
+    <Type>general</Type>
+  </Election>
+  <!-- This is a precinct-level report, so this means that all results should be
+       at the precinct level (as opposed to the county or other roll-up level.
+    -->
+  <Format>precinct-level</Format>
+  <GeneratedDate>2013-11-05T14:25:28</GeneratedDate>
+  <GpUnitCollection>
+    <GpUnit objectId="ru000us" xsi:type="ReportingUnit">
+      <ComposingGpUnitIds>
+        ru0002
+      </ComposingGpUnitIds>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru000us</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>fips</Type>
+          <Value>51</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>United States Of America</Name>
+      <Type>country</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0002" xsi:type="ReportingUnit">
+      <ComposingGpUnitIds>
+        ru0311 ru0001 ru0150 ru0076 ru0107
+      </ComposingGpUnitIds>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0002</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>fips</Type>
+          <Value>51</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>Virginia</Name>
+      <Type>state</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0001" xsi:type="ReportingUnit">
+      <ComposingGpUnitIds>ru0030 ru0081 ru0054 ru0103</ComposingGpUnitIds>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0001</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/county:albemarle</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>fips</Type>
+          <Value>51003</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>Albemarle County</Name>
+      <Type>county</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0150" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0150</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/sldl:25</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>House of Delegates District - 025</Name>
+      <Number>25</Number>
+      <Type>state-house</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0311" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0311</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/sldl:57</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>House of Delegates District - 057</Name>
+      <Number>57</Number>
+      <Type>state-house</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0076" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0076</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/sldl:58</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>House of Delegates District - 058</Name>
+      <Number>58</Number>
+      <Type>state-house</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0107" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0107</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/sldl:59</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>House of Delegates District - 059</Name>
+      <Number>59</Number>
+      <Type>state-house</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0030" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0030</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/county:albemarle/council_district:samuel_miller</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>SAMUEL MILLER DISTRICT</Name>
+      <Number>3</Number>
+      <Type>county-council</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0054" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0054</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/county:albemarle/council_district:jack_jouett</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>JACK JOUETT DISTRICT</Name>
+      <Number>2</Number>
+      <Type>county-council</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0081" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0081</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/county:albemarle/council_district:rio</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>RIO DISTRICT</Name>
+      <Number>1</Number>
+      <Type>county-council</Type>
+    </GpUnit>
+    <GpUnit objectId="ru0103" xsi:type="ReportingUnit">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-gpu-ru0103</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>ocd-id</Type>
+          <Value>ocd-division/country:us/state:va/county:albemarle/council_district:scottsville</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>SCOTTSVILLE DISTRICT</Name>
+      <Number>4</Number>
+      <Type>county-council</Type>
+    </GpUnit>
+  </GpUnitCollection>
+  <Issuer>Commonwealth of Virginia</Issuer>
+  <IssuerAbbreviation>VA</IssuerAbbreviation>
+  <OfficeCollection>
+    <Office objectId="off9999a">
+      <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off9999a</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0002</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>president</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">President of the United States</Text>
+      </Name>
+      <SelectionMethod>indirectly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off9999b">
+      <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off9999b</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0002</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>vice president</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Vice President of the United States</Text>
+      </Name>
+      <SelectionMethod>indirectly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off0000">
+      <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off0000</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0002</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>state executive</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Governor of Virginia</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off0001">
+      <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off0001</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0002</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>deputy state executive</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Lieutenant Governor of Virginia</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off20005">
+      <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20005</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0002</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>attorney general</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Attorney General of Virginia</Text>
+      </Name>
+      <SelectionMethod>indirectly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off21">
+      <ElectoralDistrictId>ru0002</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>state lower house</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20100</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0002</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Virginia House of Delegates Member</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <!-- Board of Supervisors -->
+    <Office objectId="off20262">
+      <ElectoralDistrictId>ru0103</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20262</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0103</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>county council</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member Board of Supervisors - Scottsville</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off20305">
+      <ElectoralDistrictId>ru0054</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20305</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0054</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>county council</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member Board of Supervisors - Jack Jouett</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off20350">
+      <ElectoralDistrictId>ru0030</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20350</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0030</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>county council</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member Board of Supervisors - Samuel Miller</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off20355">
+      <ElectoralDistrictId>ru0081</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20355</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0081</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>county council</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member Board of Supervisors - Rio</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <!-- School board -->
+    <Office objectId="off20449">
+      <ElectoralDistrictId>ru0081</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20449</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0081</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>school board</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member School Board - Rio</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off20473">
+      <ElectoralDistrictId>ru0030</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20473</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+       <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0030</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>school board</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member School Board - Samuel Miller</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+    <Office objectId="off20476">
+      <ElectoralDistrictId>ru0054</ElectoralDistrictId>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>stable-off20476</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-level</OtherType>
+          <Value>Administrative Area 1</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>jurisdiction-id</OtherType>
+          <Value>ru0054</Value>
+        </ExternalIdentifier>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>office-role</OtherType>
+          <Value>school board</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FilingDeadline>2013-01-01</FilingDeadline>
+      <IsPartisan>true</IsPartisan>
+      <Name>
+        <Text language="en">Member School Board - Jack Jouett</Text>
+      </Name>
+      <SelectionMethod>directly-elected</SelectionMethod>
+      <Term>
+        <Type>full-term</Type>
+      </Term>
+    </Office>
+  </OfficeCollection>
+  <PartyCollection>
+    <!--
+         The various political parties. These are defined separately to allow
+         for internationalization of the party names, definition of party colors,
+         and links to party logos.
+      -->
+    <Party objectId="par0001">
+      <InternationalizedAbbreviation>
+        <Text language="en">REP</Text>
+      </InternationalizedAbbreviation>
+      <Color>e91d0e</Color>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>vageneral-pty-2013-republican</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>
+        <Text language="en">Republican</Text>
+      </Name>
+      <PartyScopeGpUnitIds>ru000us</PartyScopeGpUnitIds>
+    </Party>
+    <Party objectId="par0002">
+      <InternationalizedAbbreviation>
+        <Text language="en">LIB</Text>
+      </InternationalizedAbbreviation>
+      <Color>f5f500</Color>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>vageneral-pty-2013-libertarian</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>
+        <Text language="en">Libertarian</Text>
+      </Name>
+      <PartyScopeGpUnitIds>ru000us</PartyScopeGpUnitIds>
+    </Party>
+    <Party objectId="par0003">
+      <InternationalizedAbbreviation>
+        <Text language="en">DEM</Text>
+      </InternationalizedAbbreviation>
+      <Color>232066</Color>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>vageneral-pty-2013-democratic</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>
+        <Text language="en">Democratic</Text>
+      </Name>
+      <PartyScopeGpUnitIds>ru000us</PartyScopeGpUnitIds>
+    </Party>
+    <Party objectId="par0004">
+      <InternationalizedAbbreviation>
+        <Text language="en">IND</Text>
+      </InternationalizedAbbreviation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>vageneral-pty-2013-independent</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>
+        <Text language="en">Independent</Text>
+      </Name>
+      <PartyScopeGpUnitIds>ru000us</PartyScopeGpUnitIds>
+    </Party>
+    <Party objectId="par0005">
+      <InternationalizedAbbreviation>
+        <Text language="en">VN</Text>
+      </InternationalizedAbbreviation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>vageneral-pty-2013-nominated</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>
+        <Text language="en">Voter Nominated</Text>
+      </Name>
+      <PartyScopeGpUnitIds>ru000us</PartyScopeGpUnitIds>
+    </Party>
+    <Party objectId="par0006">
+      <InternationalizedAbbreviation>
+        <Text language="en">PPN</Text>
+      </InternationalizedAbbreviation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>vageneral-pty-2013-none</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <Name>
+        <Text language="en">Party Preference: None</Text>
+      </Name>
+      <PartyScopeGpUnitIds>ru000us</PartyScopeGpUnitIds>
+    </Party>
+  </PartyCollection>
+  <PersonCollection>
+    <Person objectId="per50001">
+      <ContactInformation label="ci60002">
+        <Email>rwashburne@albemarle.org</Email>
+        <Phone>4349724173</Phone>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per50001</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>RICHARD</FirstName>
+      <FullName>
+        <Text language="en">Richard J. Washburne</Text>
+      </FullName>
+      <LastName>WASHBURNE</LastName>
+      <MiddleName>J.</MiddleName>
+      <Nickname>JAKE</Nickname>
+      <PartyId>par0001</PartyId>
+      <Title>
+        <Text language="en">General Registrar Physical</Text>
+      </Title>
+    </Person>
+    <Person objectId="per10861a">
+      <ContactInformation label="ci10861a">
+        <AddressLine>1600 Pennsylvania Ave</AddressLine>
+        <AddressLine>Washington, DC 20006</AddressLine>
+        <Email>president@whitehouse.gov</Email>
+        <Phone>202-456-1111</Phone>
+        <Phone annotation="TDD">202-456-6213</Phone>
+        <Uri Annotation="official-website">http://www.whitehouse.gov</Uri>
+        <Uri Annotation="official-facebook">https://www.facebook.com/WhiteHouse</Uri>
+        <Uri Annotation="official-twitter">https://twitter.com/WhiteHouse</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10861a</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Barack</FirstName>
+      <FullName>
+        <Text language="en">Barack Obama</Text>
+      </FullName>
+      <LastName>Obama</LastName>
+      <MiddleName>H.</MiddleName>
+      <PartyId>par0002</PartyId>
+    </Person>
+    <Person objectId="per10861b">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10861b</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Joseph</FirstName>
+      <FullName>
+        <Text language="en">Joe Biden</Text>
+      </FullName>
+      <LastName>Biden</LastName>
+      <MiddleName>R.</MiddleName>
+      <PartyId>par0006</PartyId>
+    </Person>
+    <Person objectId="per10862a">
+      <ContactInformation label="ci10862a">
+        <AddressLine>Post Office Box 149756</AddressLine>
+        <AddressLine>Boston, MA 02114-9756</AddressLine>
+        <Email>info@mittromney.com</Email>
+        <Uri Annotation="personal-website">http://www.mittromney.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10862a</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Willard</FirstName>
+      <FullName>
+        <Text language="en">Mitt Romney</Text>
+      </FullName>
+      <LastName>Romney</LastName>
+      <MiddleName>Mitt</MiddleName>
+      <PartyId>par0005</PartyId>
+    </Person>
+    <Person objectId="per10862b">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10862b</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Paul</FirstName>
+      <FullName>
+        <Text language="en">Paul Ryan</Text>
+      </FullName>
+      <LastName>Ryan</LastName>
+      <MiddleName>D.</MiddleName>
+      <PartyId>par0004</PartyId>
+    </Person>
+    <Person objectId="per10961">
+      <ContactInformation label="ci10961">
+        <AddressLine>10560 Main St, Ste 218</AddressLine>
+        <AddressLine>Fairfax, VA 22030</AddressLine>
+        <Email>ken@cuccinelli.com</Email>
+        <Phone>8047863808</Phone>
+        <Uri Annotation="personal-website">http://www.cuccinelli.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10961</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Ken</FirstName>
+      <FullName>
+        <Text language="en">Ken Cuccinelli</Text>
+      </FullName>
+      <LastName>Cuccinelli</LastName>
+      <MiddleName>T.</MiddleName>
+      <PartyId>par0003</PartyId>
+      <Suffix>II</Suffix>
+    </Person>
+    <Person objectId="per10962">
+      <ContactInformation label="ci10962">
+        <AddressLine>PO Box 224</AddressLine>
+        <AddressLine>Annandale, VA 22003</AddressLine>
+        <Email>info@robertsarvis.com</Email>
+        <Uri Annotation="personal-website">http://www.robertsarvis.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10962</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Robert</FirstName>
+      <FullName>
+        <Text language="en">Robert Sarvis</Text>
+      </FullName>
+      <LastName>Sarvis</LastName>
+      <MiddleName>C.</MiddleName>
+      <PartyId>par0002</PartyId>
+    </Person>
+    <Person objectId="per10963">
+      <ContactInformation label="ci10963">
+        <AddressLine>1601 N. Kent St., Suite 900</AddressLine>
+        <AddressLine>Arlington, VA 22209</AddressLine>
+        <Email>info@terrymcauliffe.com</Email>
+        <Phone>7038227604</Phone>
+        <Uri Annotation="personal-website">http://www.terrymcauliffe.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10963</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Terry</FirstName>
+      <FullName>
+        <Text language="en">Terry McAuliffe</Text>
+      </FullName>
+      <LastName>McAuliffe</LastName>
+      <MiddleName>R.</MiddleName>
+      <PartyId>par0001</PartyId>
+    </Person>
+    <Person objectId="per10966">
+      <ContactInformation label="ci10966">
+        <AddressLine>PO Box 597</AddressLine>
+        <AddressLine>Richmond, VA 23218</AddressLine>
+        <Email>ralph@ralphnortham.com</Email>
+        <Phone>7576954188</Phone>
+        <Uri Annotation="campaign-website">http://www.northamforlg.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10966</Value>
+        </ExternalIdentifier></ExternalIdentifiers>
+      <FirstName>Ralph</FirstName>
+      <FullName>
+        <Text language="en">Ralph Northam</Text>
+      </FullName>
+      <LastName>Northam</LastName>
+      <MiddleName>S.</MiddleName>
+      <PartyId>par0001</PartyId>
+    </Person>
+    <Person objectId="per10967">
+      <ContactInformation label="ci10967">
+        <AddressLine>Jackson for Lt. Governor</AddressLine>
+        <AddressLine>PO Box 15003</AddressLine>
+        <AddressLine>Chesapeake, VA 23328</AddressLine>
+        <Email>jackson@jacksonforlg.com</Email>
+        <Phone>7578024246</Phone>
+        <Uri Annotation="campaign-website">http://www.jacksonforlg.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10967</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>E.</FirstName>
+      <FullName>
+        <Text language="en">E. W. Jackson</Text>
+      </FullName>
+      <LastName>Jackson</LastName>
+      <MiddleName>W.</MiddleName>
+      <PartyId>par0003</PartyId>
+    </Person>
+    <Person objectId="per10964">
+      <ContactInformation label="ci10964">
+        <AddressLine>PO Box 555</AddressLine>
+        <AddressLine>Harrisonburg, VA 228030555</AddressLine>
+        <Email>campaign@markobenshain.com</Email>
+        <Phone>5404371451</Phone>
+        <Uri Annotation="personal-website">http://www.markobenshain.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10964</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Mark</FirstName>
+      <FullName>
+        <Text language="en">Mark Obenshain</Text>
+      </FullName>
+      <LastName>Obenshain</LastName>
+      <MiddleName>D.</MiddleName>
+      <PartyId>par0004</PartyId>
+    </Person>
+    <Person objectId="per10965">
+      <ContactInformation label="ci10965">
+        <AddressLine>PO Box 6201</AddressLine>
+        <AddressLine>Leesburg, VA 201787428</AddressLine>
+        <Email>kevin@herringforag.com</Email>
+        <Phone>7036699090</Phone>
+        <Uri Annotation="campaign-website">http://www.herringforag.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10965</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Mark</FirstName>
+      <FullName>
+        <Text language="en">Mark Herring</Text>
+      </FullName>
+      <LastName>Herring</LastName>
+      <MiddleName>R.</MiddleName>
+      <PartyId>par0005</PartyId>
+    </Person>
+    <Person objectId="per14444">
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per14444</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Cleo</FirstName>
+      <FullName>
+        <Text language="en">Cleo Powell</Text>
+      </FullName>
+      <LastName>Powell</LastName>
+      <MiddleName>E.</MiddleName>
+      <PartyId>par0002</PartyId>
+    </Person>
+    <Person objectId="per10422">
+      <ContactInformation label="ci10422">
+        <AddressLine>PO Box 12</AddressLine>
+        <AddressLine>Verona, VA 24482</AddressLine>
+        <Email>steve@stevelandes.com</Email>
+        <Phone>5402555335</Phone>
+        <Uri Annotation="personal-website">http://www.stevelandes.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10422</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>R.</FirstName>
+      <FullName>
+        <Text language="en">Steven Landes</Text>
+      </FullName>
+      <LastName>Landes</LastName>
+      <MiddleName>Steven</MiddleName>
+      <Nickname>Steve</Nickname>
+      <PartyId>par0001</PartyId>
+    </Person>
+    <Person objectId="per10388">
+      <ContactInformation label="ci10388">
+        <AddressLine>PO Box 283</AddressLine>
+        <AddressLine>Charlottesville, VA 22902</AddressLine>
+        <Email>david@davidtoscano.com</Email>
+        <Phone>4342201660</Phone>
+        <Uri Annotation="personal-website">http://www.davidtoscano.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10388</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>David</FirstName>
+      <FullName>
+        <Text language="en">David Toscano</Text>
+      </FullName>
+      <LastName>Toscano</LastName>
+      <MiddleName>J.</MiddleName>
+      <PartyId>par0005</PartyId>
+    </Person>
+    <Person objectId="per10466">
+      <ContactInformation label="ci10466">
+        <AddressLine>243-B Livestock Rd</AddressLine>
+        <AddressLine>Rustburg, VA 24588</AddressLine>
+        <Email>friendsofmattfariss@gmail.com</Email>
+        <Phone>4348615929</Phone>
+        <Uri Annotation="personal-website">http://www.mattfariss.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10466</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>C.</FirstName>
+      <FullName>
+        <Text language="en">Matt Fariss</Text>
+      </FullName>
+      <LastName>Fariss</LastName>
+      <MiddleName>Matt</MiddleName>
+      <PartyId>par0004</PartyId>
+    </Person>
+    <Person objectId="per10438">
+      <ContactInformation label="ci10438">
+        <AddressLine>2309 Finch Court</AddressLine>
+        <AddressLine>Charlottesville, VA 22911</AddressLine>
+        <Email>robbellgop@aol.com</Email>
+        <Uri Annotation="personal-website">http://www.delegaterobbell.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10438</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Robert</FirstName>
+      <FullName>
+        <Text language="en">Robert Bell</Text>
+      </FullName>
+      <LastName>Bell</LastName>
+      <MiddleName>B.</MiddleName>
+      <PartyId>par0003</PartyId>
+      <Suffix>III</Suffix>
+    </Person>
+    <Person objectId="per10079">
+      <ContactInformation label="ci10079">
+        <AddressLine>1365 Tattersall Ct</AddressLine>
+        <AddressLine>Keswick, VA 229479169</AddressLine>
+        <Email>Jane4supervisor@gmail.com</Email>
+        <Phone>4349842100</Phone>
+        <Uri Annotation="campaign-website">http://www.Jane4supervisor.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10079</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Jane</FirstName>
+      <FullName>
+        <Text language="en">Jane Dittmar</Text>
+      </FullName>
+      <LastName>Dittmar</LastName>
+      <MiddleName>D.</MiddleName>
+      <PartyId>par0006</PartyId>
+    </Person>
+    <Person objectId="per10080">
+      <ContactInformation label="ci10080">
+        <AddressLine>PO Box 318</AddressLine>
+        <AddressLine>Free Union, VA 229400318</AddressLine>
+        <Email>cincha@aol.com</Email>
+        <Phone>4342494564</Phone>
+        <Uri Annotation="personal-website">http://www.cindiburket.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10080</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>C.</FirstName>
+      <FullName>
+        <Text language="en">Cindi Burket</Text>
+      </FullName>
+      <LastName>Burket</LastName>
+      <MiddleName>L.</MiddleName>
+      <Nickname>Cindi</Nickname>
+      <PartyId>par0004</PartyId>
+    </Person>
+    <Person objectId="per10075">
+      <ContactInformation label="ci10075">
+        <AddressLine>103 Smithfield Ct</AddressLine>
+        <AddressLine>Charlottesville, VA 229012252</AddressLine>
+        <Email>diantha.mckeel@embarqmail.com</Email>
+        <Phone>4342439071</Phone>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10075</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Diantha</FirstName>
+      <FullName>
+        <Text language="en">Diantha McKeel</Text>
+      </FullName>
+      <LastName>McKeel</LastName>
+      <MiddleName>H.</MiddleName>
+      <PartyId>par0001</PartyId>
+    </Person>
+    <Person objectId="per10076">
+      <ContactInformation label="ci10076">
+        <AddressLine>2305 Fairway Ln</AddressLine>
+        <AddressLine>Charlottesville, VA 229015022</AddressLine>
+        <Email>bps43@comcast.net</Email>
+        <Phone>4349898368</Phone>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10076</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>B.</FirstName>
+      <FullName>
+        <Text language="en">Phillip Seay</Text>
+      </FullName>
+      <LastName>Seay</LastName>
+      <MiddleName>Phillip</MiddleName>
+      <PartyId>par0002</PartyId>
+    </Person>
+    <Person objectId="per10073">
+      <ContactInformation label="ci10073">
+        <AddressLine>PO Box 315</AddressLine>
+        <AddressLine>Ivy, VA 229450315</AddressLine>
+        <Email>Liz@LizPalmerforSupervisor.com</Email>
+        <Phone>4349891595</Phone>
+        <Uri Annotation="campaign-website">http://LizPalmerforSupervisor.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10073</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Liz</FirstName>
+      <FullName>
+        <Text language="en">Liz Palmer</Text>
+      </FullName>
+      <LastName>Palmer</LastName>
+      <MiddleName>A.</MiddleName>
+      <PartyId>par0003</PartyId>
+    </Person>
+    <Person objectId="per10074">
+      <ContactInformation label="ci10074">
+        <AddressLine>905 Leigh Way</AddressLine>
+        <AddressLine>Charlottesville, VA 229017749</AddressLine>
+        <Email>duanesnow@gmail.com</Email>
+        <Phone>4342953682</Phone>
+        <Uri Annotation="campaign-website">http://snowforsupervisor.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10074</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Duane</FirstName>
+      <FullName>
+        <Text language="en">Duane Snow</Text>
+      </FullName>
+      <LastName>Snow</LastName>
+      <MiddleName>E.</MiddleName>
+      <PartyId>par0002</PartyId>
+    </Person>
+    <Person objectId="per10077">
+      <ContactInformation label="ci10077">
+        <AddressLine>104 Dover Ct</AddressLine>
+        <AddressLine>Charlottesville, VA 229011012</AddressLine>
+        <Email>rodney@charlottesvillepress.com</Email>
+        <Phone>4349781290</Phone>
+        <Uri Annotation="campaign-website">http://www.RodneyThomas2013.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10077</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Rodney</FirstName>
+      <FullName>
+        <Text language="en">Rodney Thomas</Text>
+      </FullName>
+      <LastName>Thomas</LastName>
+      <MiddleName>S.</MiddleName>
+      <PartyId>par0003</PartyId>
+    </Person>
+    <Person objectId="per10078">
+      <ContactInformation label="ci10078">
+        <AddressLine>844 Belvedere Blvd</AddressLine>
+        <AddressLine>Charlottesville, VA 229013201</AddressLine>
+        <Email>bsheffield@andaregroup.com</Email>
+        <Phone>4349895562</Phone>
+        <Uri Annotation="campaign-website">http://www.bradsheffield2013.com</Uri>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10078</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>J.</FirstName>
+      <FullName>
+        <Text language="en">Brad Sheffield</Text>
+      </FullName>
+      <LastName>Sheffield</LastName>
+      <MiddleName>L.</MiddleName>
+      <Nickname>Brad</Nickname>
+      <PartyId>par0001</PartyId>
+    </Person>
+    <Person objectId="per10214">
+      <ContactInformation label="ci10214">
+        <AddressLine>3974 Deepwoods Rd</AddressLine>
+        <AddressLine>Earlysville, VA 229369776</AddressLine>
+        <Email>prpmoynihan@comcast.net</Email>
+        <Phone>4349734464</Phone>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10214</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Pamela</FirstName>
+      <FullName>
+        <Text language="en">Pamela Moynihan</Text>
+      </FullName>
+      <LastName>Moynihan</LastName>
+      <MiddleName>R.</MiddleName>
+      <PartyId>par0004</PartyId>
+    </Person>
+    <Person objectId="per10215">
+      <ContactInformation label="ci10215">
+        <AddressLine>1029 Tilman Rd</AddressLine>
+        <AddressLine>Charlottesville, VA 229016336</AddressLine>
+        <Email>ejs6j@virginia.edu</Email>
+        <Phone>4349806199</Phone>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10215</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>Eric</FirstName>
+      <FullName>
+        <Text language="en">Eric Strucko</Text>
+      </FullName>
+      <LastName>Strucko</LastName>
+      <MiddleName>J.</MiddleName>
+      <PartyId>par0001</PartyId>
+    </Person>
+    <Person objectId="per10213">
+      <ContactInformation label="ci10213">
+        <AddressLine>2210 Camargo Dr</AddressLine>
+        <AddressLine>Charlottesville, VA 229018827</AddressLine>
+        <Email>klacuff@earthlink.net</Email>
+        <Phone>4349796333</Phone>
+      </ContactInformation>
+      <ExternalIdentifiers>
+        <ExternalIdentifier>
+          <Type>other</Type>
+          <OtherType>stable</OtherType>
+          <Value>person-per10213</Value>
+        </ExternalIdentifier>
+      </ExternalIdentifiers>
+      <FirstName>K.</FirstName>
+      <FullName>
+        <Text language="en">Kate Acuff</Text>
+      </FullName>
+      <LastName>Acuff</LastName>
+      <MiddleName>L.</MiddleName>
+      <Nickname>Kate</Nickname>
+      <PartyId>par0002</PartyId>
+    </Person>
+  </PersonCollection>
+  <SequenceStart>1</SequenceStart>
+  <SequenceEnd>1</SequenceEnd>
+  <Status>unofficial-partial</Status>
+  <VendorApplicationId>Hand-Generated v0.1</VendorApplicationId>
+</ElectionReport>
